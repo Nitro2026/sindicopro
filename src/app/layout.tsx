@@ -6,7 +6,7 @@ import { Providers } from "@/components/providers";
 const geist = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SíndicoPro — Gestão Profissional de Condomínios",
+  title: "SíndicoPro",
   description: "Sistema completo para síndicos profissionais",
 };
 
